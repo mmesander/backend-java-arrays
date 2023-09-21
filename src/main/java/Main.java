@@ -24,9 +24,9 @@ public class Main {
         // twoSjimmy
         // threeSjonny
 
-        //for(;;) {
-
-        //}
+        for (int i = 0; i < names.length; i++) {
+            System.out.println(countdown[i] + names[i]);
+        }
     }
 
 }
